@@ -73,9 +73,9 @@ class Hallo
         // int third;
 
         // first = y % 10;
-        // y = y / 10;
+        // y /= 10;
         // second = y % 10;
-        // y = y / 10;
+        // y /= 10;
         // third = y % 10;
 
         // Console.WriteLine("X = {0}{1}{2}", first, second, third);
