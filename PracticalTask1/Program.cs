@@ -15,7 +15,7 @@ namespace PracticalTask1
             // int b;
             // Console.Write("a = ");
             // a = int.Parse(Console.ReadLine());
-        
+
             // Console.Write("b = ");
             // b = int.Parse(Console.ReadLine());
 
@@ -29,7 +29,7 @@ namespace PracticalTask1
             // int b;
             // Console.Write("a = ");
             // a = int.Parse(Console.ReadLine());
-        
+
             // Console.Write("b = ");
             // b = int.Parse(Console.ReadLine());
 
@@ -43,7 +43,7 @@ namespace PracticalTask1
 
             // Console.Write("a = ");
             // a = int.Parse(Console.ReadLine());
-        
+
             // Console.Write("b = ");
             // b = int.Parse(Console.ReadLine());
 
@@ -62,7 +62,7 @@ namespace PracticalTask1
 
             // Console.Write("a = ");
             // a = double.Parse(Console.ReadLine());
-            
+
             // Console.Write("b = ");
             // b = double.Parse(Console.ReadLine());
 
@@ -74,28 +74,28 @@ namespace PracticalTask1
 
 
 
-                ////////////////////////////////////////////////////////////////////                       5
+            ////////////////////////////////////////////////////////////////////                       5
             // double a;
             // double b;
 
             // Console.Write("a = ");
             // a = double.Parse(Console.ReadLine());
-            
+
             // Console.Write("b = ");
             // b = double.Parse(Console.ReadLine());
 
             // double res = a / b;
             // Console.WriteLine("{0:f3} / {1:#.###} = {2:f3}", a, b, res);
 
-                ////////////////////////////////////////////////////////////////////                       6
+            ////////////////////////////////////////////////////////////////////                       6
             // double a;
             // double b;
             // double c;
 
-            
+
             // Console.Write("a = ");
             // a = double.Parse(Console.ReadLine());
-            
+
             // Console.Write("b = ");
             // b = double.Parse(Console.ReadLine());
 
@@ -106,7 +106,7 @@ namespace PracticalTask1
 
             // Console.WriteLine("({0:f2} * {1:f2}) + {2:f2} - {0:f2} + {1:f2}", a, b, c);
 
-                ////////////////////////////////////////////////////////////////////                       7
+            ////////////////////////////////////////////////////////////////////                       7
 
             Console.OutputEncoding = Encoding.Unicode;
             Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("ru-RU");
@@ -115,10 +115,10 @@ namespace PracticalTask1
             // double b;
             // double c;
 
-            
+
             // Console.Write("Наминал купюры = ");
             // a = double.Parse(Console.ReadLine());
-            
+
             // Console.Write("количество купюр = ");
             // b = double.Parse(Console.ReadLine());
 
@@ -128,7 +128,7 @@ namespace PracticalTask1
 
 
 
-                ////////////////////////////////////////////////////////////////////                       8
+            ////////////////////////////////////////////////////////////////////                       8
             // Console.OutputEncoding = Encoding.Unicode;
             // Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("ru-RU");
 
@@ -136,10 +136,10 @@ namespace PracticalTask1
             // double b;
             // double c;
 
-            
+
             // Console.Write("Введите сумму вклада = ");
             // a = double.Parse(Console.ReadLine());
-            
+
             // Console.Write("Введите процент по вкладу = ");
             // b = double.Parse(Console.ReadLine()) / 100;
 
@@ -147,12 +147,12 @@ namespace PracticalTask1
             // double res = a * b;
             // Console.WriteLine("Через год начислиться = {0:c2}", res);
 
-        
-        
-        
-        
-        
-                
+
+
+
+
+
+
             ////////////////////////////////////////////////////////////////////                       9
 
 
@@ -163,10 +163,10 @@ namespace PracticalTask1
             // double b;
             // double c;
 
-            
+
             // Console.Write("Введите сумму вклада = ");
             // a = double.Parse(Console.ReadLine());
-            
+
             // Console.Write("Введите процент по вкладу = ");
             // b = double.Parse(Console.ReadLine()) / 100;
 
@@ -175,7 +175,7 @@ namespace PracticalTask1
             // Console.WriteLine("В конце года начислиться = {0:c2}", res);
 
 
-                ////////////////////////////////////////////////////////////////////                       10
+            ////////////////////////////////////////////////////////////////////                       10
             // string name;
             // int age;
             // int year;

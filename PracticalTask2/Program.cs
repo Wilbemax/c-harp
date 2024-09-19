@@ -33,7 +33,6 @@ class Hallo
         // Console.Write("Введите двузначное натуральное число: ");
         // number = int.Parse(Console.ReadLine());
 
-
         // if (number < 10 || number > 99)
         // {
         //     Console.WriteLine("Число должно быть двузначным.");
@@ -48,7 +47,7 @@ class Hallo
         // // smallestDigit = Math.Min(firstDigit, secondDigit);
 
 
-        
+
         // // or
 
         // if (number % 10 >= number / 10) {
