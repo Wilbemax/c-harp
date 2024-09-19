@@ -1,0 +1,15 @@
+D:\c-harp\halloWorld\bin\Debug\net6.0\halloWorld.exe
+D:\c-harp\halloWorld\bin\Debug\net6.0\halloWorld.deps.json
+D:\c-harp\halloWorld\bin\Debug\net6.0\halloWorld.runtimeconfig.json
+D:\c-harp\halloWorld\bin\Debug\net6.0\halloWorld.dll
+D:\c-harp\halloWorld\bin\Debug\net6.0\halloWorld.pdb
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.csproj.AssemblyReference.cache
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.AssemblyInfoInputs.cache
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.AssemblyInfo.cs
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.csproj.CoreCompileInputs.cache
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.dll
+D:\c-harp\halloWorld\obj\Debug\net6.0\refint\halloWorld.dll
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.pdb
+D:\c-harp\halloWorld\obj\Debug\net6.0\halloWorld.genruntimeconfig.cache
+D:\c-harp\halloWorld\obj\Debug\net6.0\ref\halloWorld.dll

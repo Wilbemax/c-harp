@@ -1,0 +1,15 @@
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.csproj.AssemblyReference.cache
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.AssemblyInfoInputs.cache
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.AssemblyInfo.cs
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.csproj.CoreCompileInputs.cache
+D:\c-harp\PracticalTask1\bin\Debug\net6.0\PracticalTask1.exe
+D:\c-harp\PracticalTask1\bin\Debug\net6.0\PracticalTask1.deps.json
+D:\c-harp\PracticalTask1\bin\Debug\net6.0\PracticalTask1.runtimeconfig.json
+D:\c-harp\PracticalTask1\bin\Debug\net6.0\PracticalTask1.dll
+D:\c-harp\PracticalTask1\bin\Debug\net6.0\PracticalTask1.pdb
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.dll
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\refint\PracticalTask1.dll
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.pdb
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\PracticalTask1.genruntimeconfig.cache
+D:\c-harp\PracticalTask1\obj\Debug\net6.0\ref\PracticalTask1.dll
