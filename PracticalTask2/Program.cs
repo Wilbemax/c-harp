@@ -6,38 +6,38 @@ class Hallo
     {
         //Задание 1   Площадь прямоугольного треугольника по двум катетам
 
-        // int a;
-        // int b;
+    //    int a;
+    //     int b;
 
-        // double res;
+    //     double res;
 
-        // Console.Write("Введите первый катет:");
-        // a = int.Parse(Console.ReadLine());
+    //     Console.Write("Введите первый катет:");
+    //     a = int.Parse(Console.ReadLine());
 
 
 
-        // Console.Write("Введите второй катет:");
-        // b = int.Parse(Console.ReadLine());
+    //     Console.Write("Введите второй катет:");
+    //     b = int.Parse(Console.ReadLine());
 
-        // res = 0.5 * a * b;
-        // Console.WriteLine("Площадь: {0}", res);
+    //     res = 0.5 * a * b;
+    //     Console.WriteLine("Площадь: {0}", res); 
 
 
 
 
         //Задание 2  Наименьшую цифру в натуральном двухзначном числе
 
-        // int number;
-        // int smallestDigit;
+        int number;
+        int smallestDigit;
 
-        // Console.Write("Введите двузначное натуральное число: ");
-        // number = int.Parse(Console.ReadLine());
+        Console.Write("Введите двузначное натуральное число: ");
+        number = int.Parse(Console.ReadLine());
 
-        // if (number < 10 || number > 99)
-        // {
-        //     Console.WriteLine("Число должно быть двузначным.");
-        //     return;
-        // }
+        if (number < 10 || number > 99)
+        {
+            Console.WriteLine("Число должно быть двузначным.");
+            return;
+        }
 
 
         // // int firstDigit = number / 10;
@@ -49,6 +49,12 @@ class Hallo
 
 
         // // or
+ 
+        smallestDigit = (number % 10 >= number / 10) ? number / 10 : number % 10;
+
+
+        // // or
+
 
         // if (number % 10 >= number / 10) {
         //     smallestDigit = number % 10 ;
@@ -57,7 +63,7 @@ class Hallo
         // }
 
 
-        // Console.WriteLine("Наименьшая цифра в числе {0} равна {1}", number, smallestDigit);
+        Console.WriteLine("Наименьшая цифра в числе {0} равна {1}", number, smallestDigit);
 
 
         // Задание 3) Число Х является перевертышем числа Y. Зная значение числа Y, найдите исходное число X.
