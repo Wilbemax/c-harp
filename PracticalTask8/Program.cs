@@ -77,6 +77,7 @@ class Program
 
         while (setA.Count > 0)
         {
+            Console.Clear();
             Console.Write("Введите число (0-255): ");
             if (!int.TryParse(Console.ReadLine(), out int nowNum))
             {
