@@ -38,7 +38,8 @@ namespace Olipiada
             int[] nums = { 1, 2, 3 };
             Console.WriteLine(nums.Length);  // Длина массива
             Console.WriteLine(nums.GetValue(0));  // Получение элемента массива по индексу
-            Array.Reverse(nums);  // Переворачиваем массив
+            Array.Reverse(nums); // Переворачиваем массив
+            Array.Sort(nums);
             Console.WriteLine(string.Join(", ", nums));  // Вывод массива как строки
 
             // Двумерные массивы
@@ -153,5 +154,70 @@ namespace Olipiada
 
             Console.WriteLine("Буква '{0}' встречается {1} раз", letter, count);
         }
-    }
-}
+
+
+
+        //wtih basic array, like int[]
+        static int BinarySearchWithBasicArray(int[] array, int search)
+        {
+            int start = 0;
+            int end = array.Length - 1;
+
+            while (start <= end)
+            {
+                int mid = start + (end - start) / 2;
+                
+                if (array[mid] == search)
+                {
+                    return mid
+                } else if (array[mid] > search) {
+                    start = mid + 1;
+                } else
+                {
+                    end = mid - 1;
+                }
+                return start;
+        }
+
+            static int BinarySearchWithList(List<int> array, int search)
+            {
+                int start = 0;
+                int end = array.Count - 1;
+
+                while (start <= end)
+                {
+                    int mid = start + (end - start) / 2;
+
+                    if (array[mid] == search)
+                    {
+                        return mid
+                    }
+                    else if (array[mid] > search)
+                    {
+                        start = mid + 1;
+                    }
+                    else
+                    {
+                        end = mid - 1;
+                    }
+                    return start;
+                }
+
+            }
+
+            static int GCD(int a, int b)
+            {
+                while (b != 0)
+                {
+                    int temp = b;
+                    b = a % b;
+                    a = temp;
+                }
+                return a;
+            }
+
+            static int LCM(int a, int b)
+            {
+                return Math.Abs(a * b) / GCD(a, b);
+            }
+        }
