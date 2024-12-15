@@ -46,6 +46,18 @@ namespace Olipiada
             Console.WriteLine(matrix.GetLength(0));  // Количество строк
             Console.WriteLine(matrix.GetLength(1));  // Количество столбцов
 
+            // Двумерные массивы через int[,]
+            int[,] matrix = new int[2, 2] { { 1, 2 }, { 3, 4 } };
+            Console.WriteLine("Двумерная матрица:");
+            for (int i = 0; i < matrix.GetLength(0); i++)  // matrix.GetLength(0) — количество строк
+            {
+                for (int j = 0; j < matrix.GetLength(1); j++)  // matrix.GetLength(1) — количество столбцов
+                {
+                    Console.Write(matrix[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+
             // Динамические коллекции
             List<int> dynamicList = new List<int>();
             dynamicList.Add(1);  // Добавление элемента
