@@ -1,0 +1,15 @@
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.AssemblyInfoInputs.cache
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.AssemblyInfo.cs
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.csproj.CoreCompileInputs.cache
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.sourcelink.json
+D:\Lerning\c-harp\Olimpiada\bin\Debug\net8.0\Olimpiada.exe
+D:\Lerning\c-harp\Olimpiada\bin\Debug\net8.0\Olimpiada.deps.json
+D:\Lerning\c-harp\Olimpiada\bin\Debug\net8.0\Olimpiada.runtimeconfig.json
+D:\Lerning\c-harp\Olimpiada\bin\Debug\net8.0\Olimpiada.dll
+D:\Lerning\c-harp\Olimpiada\bin\Debug\net8.0\Olimpiada.pdb
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.dll
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\refint\Olimpiada.dll
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.pdb
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\Olimpiada.genruntimeconfig.cache
+D:\Lerning\c-harp\Olimpiada\obj\Debug\net8.0\ref\Olimpiada.dll
