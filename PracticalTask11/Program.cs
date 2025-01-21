@@ -55,7 +55,7 @@ namespace TestProject
 
 
             int ab = 10, ac = 11, dc = 5;
-            double db = Hypotenuse(Convert.ToInt32(Hypotenuse(ab, ac), dc);
+            double db = Hypotenuse(Convert.ToInt32(Hypotenuse(ab, ac), dc));
             Console.WriteLine("Гипотенуза: {0}", db);
 
             Console.WriteLine("Периметр: {0}", ab + ac + dc + db);
