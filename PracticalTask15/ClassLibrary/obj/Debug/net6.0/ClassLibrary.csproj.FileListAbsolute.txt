@@ -1,0 +1,12 @@
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\c-harp\PracticalTask15\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\c-harp\PracticalTask15\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\c-harp\PracticalTask15\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\c-harp\PracticalTask15\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
