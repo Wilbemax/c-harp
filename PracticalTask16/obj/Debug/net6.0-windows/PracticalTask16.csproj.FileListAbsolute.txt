@@ -1,0 +1,15 @@
+D:\c-harp\PracticalTask16\bin\Debug\net6.0-windows\PracticalTask16.exe
+D:\c-harp\PracticalTask16\bin\Debug\net6.0-windows\PracticalTask16.deps.json
+D:\c-harp\PracticalTask16\bin\Debug\net6.0-windows\PracticalTask16.runtimeconfig.json
+D:\c-harp\PracticalTask16\bin\Debug\net6.0-windows\PracticalTask16.dll
+D:\c-harp\PracticalTask16\bin\Debug\net6.0-windows\PracticalTask16.pdb
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.csproj.AssemblyReference.cache
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.AssemblyInfoInputs.cache
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.AssemblyInfo.cs
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.csproj.CoreCompileInputs.cache
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.dll
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\refint\PracticalTask16.dll
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.pdb
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\PracticalTask16.genruntimeconfig.cache
+D:\c-harp\PracticalTask16\obj\Debug\net6.0-windows\ref\PracticalTask16.dll

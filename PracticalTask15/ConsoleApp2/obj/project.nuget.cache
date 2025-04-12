@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FK2QqcUcntul2avh3fOePVkM8iyLbGH0jfKOyV3+DEDDsNpCEVYYGlmfDNn4XZnaO+l1qwmiOGol0pQteKxvdw==",
+  "dgSpecHash": "9eFZXiQXGTM=",
   "success": true,
   "projectFilePath": "D:\\c-harp\\PracticalTask15\\ConsoleApp2\\ConsoleApp2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\max22\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.36\\microsoft.netcore.app.host.win-x86.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBysECjU2DI=",
+  "success": true,
+  "projectFilePath": "D:\\c-harp\\module2\\PracticalTask16\\PracticalTask16\\PracticalTask16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\max22\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.36\\microsoft.netcore.app.host.win-x86.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

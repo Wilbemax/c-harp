@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Launch Current File",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${file}",
+            "args": [],
+            "cwd": "${fileDirname}" // Установите рабочую директорию как папку текущего файла
+        },
+        {
+            "name": "Run Any File in Terminal",
+            "type": "shell",
+            "request": "launch",
+            "command": "${file}", // Запускает любой файл через терминал
+            "problemMatcher": [] // Отключает поиск ошибок, если это не требуется
+        }
+    ]
+}
